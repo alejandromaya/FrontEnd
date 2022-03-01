@@ -2,7 +2,7 @@
 
 En este repositorio encontraremos las práscticas realizadas dentro del programa Launch X, dónde se iran agregando al concenido con su respectivo modulo:
 
-- [Analsis de requerimientos]()
+- [Analsis de requerimientos](https://github.com/alejandromaya/FrontEnd/blob/main/Front-End/01.INTRO/ESRequerimientos.docx)
 - [Buyer Persona]()
 - [Publico objetivo]()
 - [Diseño UX]()
