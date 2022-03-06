@@ -1,0 +1,323 @@
+@media screen and (min-width: 1025px) {
+    body{
+      zoom: 110%;  
+    }
+    .about-head {
+        background-color: rgb(243, 196, 237);
+        max-height: 100%;
+    }
+    .about-head img{
+        border-radius: 50%;
+        margin-left: 120px;
+        width: 100px;
+        height: 80px;
+    }
+    .contactcake{
+        position: absolute;
+        width: 250px;
+        height: 55px;
+        max-height: 100%;
+        margin-top: 15px;
+        margin-left: 790px;
+        display: inline-block;
+        font-size: 18px;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+        font-family: 'Cherry Swash', cursive;
+    }
+    .namecake{
+        position: absolute;
+        width: 85px;
+        height: 55px;
+        margin-top: 12px;
+        margin-left: 20px;
+        display: inline-block;
+        text-align: center;
+        font-size: 40px;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+        font-family: 'Cherry Swash', cursive;
+    }
+    
+    .about{
+        background-color: rgb(241, 166, 223);
+        margin-top: 40px;
+    }
+    .about{
+        background-image: url("https://imiti.com.mx/wp-content/uploads/2021/02/pasteles-IMITI-Salones-1024x683.jpg");
+        background-repeat: no-repeat;
+        background-size: 720px;
+        margin-left: 300px;
+        height: 480px;
+        width: 720px;
+    }
+    .text{
+        position: absolute;
+    }
+    .about h1 {
+        text-align: center;
+        margin: 120px 28px 22px;
+        font-size: 30px;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+        font-family: 'Cherry Swash', cursive;
+    }
+    .about h2 {
+        margin: 25px;
+        font-size: 14px;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+        font-family: 'Cherry Swash', cursive;
+    }
+    
+    .about h3{
+        margin: 25px;
+        font-size: 11px;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+        font-family: 'Cherry Swash', cursive;
+    }
+    
+    .button1{
+        display:inline-block;
+        width: 180px;
+        padding: 10px;
+        background: rgb(192, 117, 186);
+        margin-right: 350px;
+        margin-left: 100px;
+        margin-top: 320px;
+        text-align: center;
+        color: black;
+        font-size: 15px;
+        font-weight: bold;
+        transition: all 0.9s ease;
+        box-shadow: -5px 1px 3px 0px rgb(34, 13, 5);
+        border-radius: 10px 30px;
+    }
+    .button1{
+        background: rgb(233, 186, 235);
+        color:rgb(255, 255, 255);
+        box-shadow:none;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    .line{
+        height: 5px;
+        width: 40%;
+        margin-top: 30px;
+        margin-bottom: 40px;
+        background-color: #eb84c9;
+        border-radius: 20%;
+    }
+    .container{
+        margin-bottom: 60px;
+        margin-left: 250px;
+    }
+    .container h1{
+        margin-left: 120px;
+        font-size: 30px;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+        font-family: 'Cherry Swash', cursive;
+        color: #eb84c9;
+    }
+    .pastel{
+        float: left;
+        text-align: center;
+        height: 280px;
+        width: 180px;
+        margin-top: 40px;
+        margin-right: 20px;
+        margin-bottom: 65px;
+            
+    }
+    .pastel img{
+        margin-top: 8px;
+        height: 160px;
+        width: 160px;
+        border-radius: none;
+    }
+    .pastel{
+        transition: transform .2s;
+    }
+    .pastel:hover{
+        transform: scale(1.1);
+        box-shadow: 8px -6px grey;
+    }
+    .button2{
+        background-color: #4CAF50; 
+        color: white;
+        padding: 8px 25px;
+        margin-top: 8px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        display: inline-block;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    }
+    .button2:hover{
+        transform: scale(1.2);
+    }
+    .formulario{
+        background-color: #f1b0dc;
+        height: 740px;
+        width: 1210px;    
+    }
+    .aboutform{
+        background-color: #f1b0dc;
+        position: absolute;
+        width: 550px;
+        height: 700px;
+        margin-top: 20px;
+        margin-left: 640px;
+    }
+    .img{
+        position: absolute;
+        width: 550px;
+        height: 700px;
+        margin-top: 20px;
+        margin-left: 45px; 
+    }
+    .img img{
+        width: 550px;
+        height: 500px;
+        border-radius: 10%;
+    }
+    .img h1{
+        text-align: center;
+        font-size: 30px;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+        font-family: 'Cherry Swash', cursive;
+    }
+    form {
+        background-color: white;
+        margin: 0 auto;
+        width: 400px;
+        height:550px;
+        padding: 3em;
+        margin-top: 40px;
+        object-position: center;
+        border: 1px solid #f1b0dc;
+        border-radius: 1em;
+      }
+      
+    ul{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      
+    form li + li {
+        margin-top: 1em;
+        
+      }
+      
+    .text1 {
+        display: inline-block;
+        width: 90px;
+        text-align: right;
+      }
+    
+    .input1,  textarea {
+        font: 1em sans-serif;
+        width: 300px;
+        box-sizing: border-box;
+        border: 1px solid #999;
+        
+        }
+    
+    textarea:focus {
+        border-color: #000;
+      }
+      
+    textarea {
+        vertical-align: top;
+        height: 5em;
+      }
+    .selection-box{
+        margin-top: 25px;
+        position: absolute;
+        width: 400px;
+        height: 250px;
+      }
+    .input2{
+        width: 15px;
+        height: 15px;
+        padding: 0;
+        margin:0;
+        vertical-align: bottom;
+        margin-top: 15px;
+        margin-left: 25px;
+      }
+    .text2 {
+        text-indent: -15px
+      } 
+    .checkbox{
+          height: 30px;
+          width: 400px;
+          margin-bottom: 20px;
+      }
+    .button3{
+        background-color: #ffc3eb;
+        border: none;
+        font-size: larger;
+        width: 80px;
+        height: 25px;
+        padding-left: 10px;
+        margin-left: 170px;
+        margin-top: 350px;
+        cursor: pointer; 
+      }
+    .button3:hover {
+        transform: scale(1.2);
+        box-shadow: rgb(12, 12, 12);
+      }
+    /*Datos de la empresa*/
+    .datosemp{
+        background-color: rgb(88, 51, 80);
+        width: 1210px;
+        height: 200px;
+    }
+    .adress{
+        width: 33%;
+        height: 100%;
+        font-size: 18px;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        float: left;
+        justify-content: center;
+    }
+    .redes{
+        width: 33%;
+        height: 100%;
+        float: left;
+        font-size: 38px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+    }
+    .contact{
+        width: 33%;
+        height: 100%;
+        float: left;
+        font-size: 18px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+    p{
+        font-family: 'Cherry Swash', cursive;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+    }
+}
+
+  
+  
